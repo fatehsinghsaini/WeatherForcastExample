@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                            
+                                                      
+
+	 
+             
+                  
+                                                         
+         
+
+	 <com.google.android.material.card.MaterialCardView
+		  android:layout_width="match_parent"
+		  app:cardUseCompatPadding="true"
+		  android:layout_height="180dp"
+		  app:cardBackgroundColor="@color/blackTran"
+		  app:cardCornerRadius="@dimen/_11sdp" android:tag="layout/item_rv_city_weather_0" xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+		  <androidx.constraintlayout.widget.ConstraintLayout
+			   android:layout_width="match_parent"
+			   android:layout_height="match_parent">
+
+			   <ImageView
+					android:id="@+id/imgWeather"
+					android:layout_width="50dp"
+					android:layout_height="50dp"
+					android:layout_marginStart="8dp"
+					android:layout_marginTop="8dp"
+					android:tag="binding_1"       
+					app:layout_constraintStart_toStartOf="parent"
+					app:layout_constraintTop_toTopOf="parent"
+					tools:ignore="ContentDescription" />
+
+
+			   <TextView
+					android:id="@+id/tvTemp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_margin="30dp"
+					android:fontFamily="@font/gill_sans_nova_bold"
+					android:textColor="@color/white"
+					android:textSize="35sp"
+					android:tag="binding_2"     
+					app:layout_constraintBottom_toBottomOf="parent"
+					app:layout_constraintEnd_toEndOf="parent"
+					app:layout_constraintStart_toStartOf="parent"
+					app:layout_constraintTop_toTopOf="parent"
+					tools:ignore="TextContrastCheck"
+					tools:text="30" />
+
+			   <TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:fontFamily="@font/gg_ss"
+					android:text="@string/temp_symbol"
+					android:textColor="@color/white"
+					android:textSize="16sp"
+					app:layout_constraintBottom_toTopOf="@+id/tvTemp"
+					app:layout_constraintEnd_toEndOf="@+id/tvTemp"
+					app:layout_constraintStart_toEndOf="@+id/tvTemp"
+					app:layout_constraintTop_toTopOf="@+id/tvTemp"
+					tools:ignore="TextContrastCheck" />
+
+			   <TextView
+					android:id="@+id/tvCity"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_marginBottom="30dp"
+					android:fontFamily="@font/gg_ss"
+					android:textColor="@color/white"
+					android:textSize="20sp"
+					android:tag="binding_3"       
+					app:layout_constraintBottom_toBottomOf="parent"
+					app:layout_constraintEnd_toEndOf="parent"
+					app:layout_constraintStart_toStartOf="parent"
+					app:layout_constraintTop_toBottomOf="@+id/tvTemp"
+					tools:ignore="TextContrastCheck"
+					tools:text="Fateh" />
+
+
+		  </androidx.constraintlayout.widget.ConstraintLayout>
+
+	 </com.google.android.material.card.MaterialCardView>
+         

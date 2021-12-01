@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/drawable_ic_reload.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/drawable/ic_reload.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/layout_container_details.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/container_details.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/layout_widget_weather.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/widget_weather.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/layout_item_rv_forcast.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/item_rv_forcast.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/layout_base_recyclerview.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/base_recyclerview.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/drawable_sun.jpeg.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/drawable/sun.jpeg"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/drawable_ic_no_internet.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/drawable/ic_no_internet.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/drawable_ic_no_gps.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/drawable/ic_no_gps.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/drawable_place_holder.jpg.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/drawable/place_holder.jpg"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/layout_view_no_gps.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/view_no_gps.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/font_popins_regular.ttf.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/font/popins_regular.ttf"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/layout_container_splash.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/container_splash.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/font_poppins_medium.ttf.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/font/poppins_medium.ttf"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/font_gg_ss.otf.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/font/gg_ss.otf"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/font_gill_sans_nova_bold.ttf.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/font/gill_sans_nova_bold.ttf"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/layout_view_no_permissions.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/view_no_permissions.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/layout_fragment_home.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/layout_view_no_internet.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/view_no_internet.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/anim_ver_anim.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/anim/ver_anim.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/navigation_nav_graph.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/xml_network_security_config.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/layout_item_rv_city_weather.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/item_rv_city_weather.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/xml_weather_widget_info.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/xml/weather_widget_info.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/layout_fragment_splash.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/font_luxia_semi_bold_display.otf.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/font/luxia_semi_bold_display.otf"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/layout_fragment_city_details.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/fragment_city_details.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/layout_view_loading.xml.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/view_loading.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]

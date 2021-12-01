@@ -1,0 +1,1 @@
+[{"navFile":"src/main/res/navigation/nav_graph.xml","javaFiles":["com.wf.weatherforcastexample.ui.home.view.HomeFragmentDirections","com.wf.weatherforcastexample.ui.splash.view.SplashFragmentDirections","com.wf.weatherforcastexample.ui.details.view.CityDetailsFragmentArgs"]}]

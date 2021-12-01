@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_rv_forcast.xml",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/item_rv_forcast.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/container_details.xml",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/container_details.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/container_splash.xml",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/container_splash.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_rv_city_weather.xml",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/item_rv_city_weather.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/view_loading.xml",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/view_loading.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/view_no_permissions.xml",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/view_no_permissions.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_splash.xml",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_city_details.xml",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/fragment_city_details.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/view_no_gps.xml",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/view_no_gps.xml"
+    },
+    {
+        "merged": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/view_no_internet.xml",
+        "source": "/home/nakshita/AndroidStudioProjects/WeatherForcastExample/app/src/main/res/layout/view_no_internet.xml"
+    }
+]

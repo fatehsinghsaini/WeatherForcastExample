@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherForcastExample</string>
+    <string name="temp_symbol">℃</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="try_again_later">Try again later</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="turn_on_your_gps">Turn on your GPS</string>
+    <string name="gps_is_disable_please_disable">Gps is disable please disable</string>
+    <string name="accept_location_permissions">Accept location permissions</string>
+    <string name="take_permissions">Enable Location Permissions</string>
+</resources>

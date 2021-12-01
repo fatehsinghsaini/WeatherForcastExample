@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                 
+
+	 
+             
+                     
+                                                                          
+         
+
+	 <ViewFlipper
+		  android:id="@+id/viewFlipper"
+		  android:layout_width="match_parent"
+		  android:layout_height="match_parent"
+		  android:layout_marginTop="5dp"
+		  tools:context=".ui.home.view.HomeFragment" android:tag="layout/fragment_splash_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+		  <include
+			   android:id="@+id/containerSplash"
+			   android:layout_width="match_parent"
+			   android:layout_height="match_parent"
+			   layout="@layout/container_splash" />
+
+		  <include
+			   android:id="@+id/viewNoInternet"
+			   layout="@layout/view_no_internet" />
+
+		  <include
+			   android:id="@+id/viewNoGps"
+			   layout="@layout/view_no_gps" />
+
+		  <include
+			   android:id="@+id/viewTakePermissions"
+			   layout="@layout/view_no_permissions" />
+
+
+	 </ViewFlipper>
+         
