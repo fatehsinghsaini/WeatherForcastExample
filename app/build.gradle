@@ -37,10 +37,8 @@ android {
         enabled = true
     }
     buildTypes.each {
-        it.buildConfigField 'String', 'GOOGLE_URL' , googleUrl
         it.buildConfigField 'String', 'SERVER_URL', serverUrl
         it.buildConfigField 'String', 'WEATHER_API_KEY', WEATHER_API_KEY
-        it.buildConfigField 'String', 'GOOGLE_PLACE_API_KEY', GOOGLE_PLACE_API_KEY
     }
 }
 

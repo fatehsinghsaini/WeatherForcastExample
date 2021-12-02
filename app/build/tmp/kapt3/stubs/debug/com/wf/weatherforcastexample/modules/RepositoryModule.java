@@ -1,7 +1,6 @@
 package com.wf.weatherforcastexample.modules;
 
 import android.app.Application;
-import com.wf.weatherforcastexample.domain.api.ApiGooglePlaces;
 import com.wf.weatherforcastexample.ui.home.repo.HomeRepository;
 import com.wf.weatherforcastexample.domain.api.ApiService;
 import com.wf.weatherforcastexample.db.CityDao;

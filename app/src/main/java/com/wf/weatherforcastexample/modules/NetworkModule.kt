@@ -1,12 +1,10 @@
 package com.wf.weatherforcastexample.modules
 
 import android.content.Context
-import com.wf.weatherforcastexample.domain.api.ApiGooglePlaces
 import com.wf.weatherforcastexample.core.utils.AppConstants.BASE_URL_RETROFIT_API
 import com.wf.weatherforcastexample.core.utils.AppConstants.REQUEST_TIME_OUT
 import com.wf.weatherforcastexample.core.utils.AppPreferences
 import com.wf.weatherforcastexample.domain.api.ApiService
-import com.wf.weatherforcastexample.core.utils.AppConstants.BASE_URL_GOOGLE_PLACES_API
 import com.google.gson.Gson
 import com.google.gson.GsonBuilder
 import com.readystatesoftware.chuck.ChuckInterceptor
@@ -88,12 +86,6 @@ object NetworkModule {
             ApiService::class.java)
     }
 
-    @Provides
-    @Singleton
-    fun provideHomeGooglePlaces(gson: Gson, okHttpClient: OkHttpClient): ApiGooglePlaces {
-        return getDynamicRetrofitClient(gson , okHttpClient ,BASE_URL_GOOGLE_PLACES_API).create(
-            ApiGooglePlaces::class.java)
-    }
 
     private fun getDynamicRetrofitClient(
         gson: Gson,

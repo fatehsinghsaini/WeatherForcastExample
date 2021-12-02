@@ -1,7 +1,6 @@
 package com.wf.weatherforcastexample.ui.home.repo
 
 import com.wf.weatherforcastexample.data.ResultData
-import com.wf.weatherforcastexample.domain.api.ApiGooglePlaces
 import com.wf.weatherforcastexample.domain.api.ApiService
 import com.wf.weatherforcastexample.domain.api.BaseDataSource
 import com.wf.weatherforcastexample.db.CityDao

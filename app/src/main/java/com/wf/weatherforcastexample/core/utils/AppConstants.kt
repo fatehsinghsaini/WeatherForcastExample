@@ -14,12 +14,9 @@ object AppConstants {
     const val IS_FIRST="IS_FIRST"
     const val RELOAD_START="RELOAD_START"
 
-    const val GOOGLE_PLACE_API_QUERY : String = "key"
     const val WEATHER_API_QUERY :String = "appid"
     const val BASE_URL_RETROFIT_API: String = BuildConfig.SERVER_URL
-    const val BASE_URL_GOOGLE_PLACES_API: String = BuildConfig.GOOGLE_URL
     const val WEATHER_API_KEY :String = BuildConfig.WEATHER_API_KEY
-    const val GOOGLE_PLACE_API_KEY : String = BuildConfig.GOOGLE_PLACE_API_KEY
 
     const val MULTIPLE_LOCATION_PERMISSION = 1
     const val WIDGET_REQUEST_CODE = 0

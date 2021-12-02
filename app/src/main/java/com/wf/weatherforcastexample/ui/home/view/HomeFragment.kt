@@ -61,7 +61,7 @@ class HomeFragment(override val layoutResourceLayout: Int = R.layout.fragment_ho
                             if (!isFirst(appPreferences) && it["gps"] == true) {
                                 fetchWeatherLatLong().observe(requireActivity(), { result -> fetchResult(result) })
                             } else {
-                                fetchWeatherByCity("London").observe(requireActivity(), { result -> fetchResult(result) })
+                                fetchWeatherByCity("India").observe(requireActivity(), { result -> fetchResult(result) })
                             }
                         }
                     }
